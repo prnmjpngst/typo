@@ -1,6 +1,7 @@
 ---
 title: sample
-category: sample
+categories: sample
+
 ---
 
 this is a sample post i make
