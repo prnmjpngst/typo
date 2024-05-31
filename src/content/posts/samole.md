@@ -1,5 +1,6 @@
 ---
 title: sample
+pubDate: 2024-05-30
 categories: sample
 
 ---
