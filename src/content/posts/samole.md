@@ -1,9 +1,8 @@
 ---
-title: sample
-description: "this is a simple sample text"
-pubDate: 2024-05-30
-categories: sample
-
+title: Sample Post 
+pubDate: 2024-06-02
+categories: ['Purnomo']
+description: 'This is a sample post I make'
 ---
 
-this is a sample post i make
+Hello, my name is aji, i write this website, but i use templeate from someone.
