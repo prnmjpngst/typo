@@ -1,21 +1,21 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "活版印字",
+  title: "Kios",
   /** your name */
-  author: "Typography",
+  author: "Purnomo",
   /** website description */
-  desc: "Rediscory the beauty of typography",
+  desc: "Print & Foto Copy",
   /** your deployed domain */
-  website: "https://astro-theme-typography.vercel.app/",
+  website: "https://poernomo.vercel.app/",
   /** your locale */
   locale: "en-us",
   /** theme style */
-  themeStyle: "light",
+  themeStyle: "dark",
   /** your socials */
   socials: [
     {
       name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/prnmjpngst",
     },
     {
       name: "rss",
@@ -23,16 +23,16 @@ export const THEME_CONFIG: App.Locals['config'] = {
     },
     {
       name: "twitter",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://x.com/prnmjpngst",
     },
     {
       name: "mastodon",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://mastodon.social/@prnmjpngst",
     }
   ],
   /** your header info */
   header: {
-    twitter: "@moeyua13",
+    twitter: "@prnmjpngst",
   },
   /** your navigation links */
   navs: [
@@ -55,12 +55,12 @@ export const THEME_CONFIG: App.Locals['config'] = {
   ],
   /** your category name mapping, which the `path` will be shown in the url */
   category_map: [
-    { name: "胡适", path: "hu-shi" },
+    { name: "Prnmjpngst", path: "purnomo" },
   ],
   /** your comment provider */
   comments: {
     disqus: {
-      shortname: "typography-astro",
+      shortname: "prnmjpngst",
     },
     // giscus: {
     //   repo: 'moeyua/astro-theme-typography',
